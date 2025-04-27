@@ -55,7 +55,6 @@ Hosting: AWS Amplify / Firebase Hosting
 - [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
 - [ ] **Screenpipe:** _Screen-based analytics or workflows_  
 - [ ] **Stellar:** _Payments, identity, or token usage_
-*(Mark with ✅ if completed)*
 ---
 
 ## ✨ Key Features
@@ -118,7 +117,6 @@ Set up environment variables before running.
 -🌐 Expand to multiple platforms like web and desktop
 -📚 Integration with online learning platforms (e.g., Coursera, Udemy)
  
-
 ---
 
 ## 📎 Resources / Credits
