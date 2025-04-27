@@ -97,9 +97,11 @@ git clone https://github.com/gitmanforever/Tutor.ai-for-Hackazards-Hackathon
 
 # Install dependencies
 cd tutor.ai
+
+# Node Installation
 npm install
 
-# Start development server
+# Start runnning
 npx expo start
 ```
 
