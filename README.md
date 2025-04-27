@@ -27,17 +27,15 @@ By combining AI, real-time media processing, and gamification, it enables studen
 
 ### Team Members:  
 
-- Archit Saxena -  lead
-- Shreyash Srivastva  - Developer
+- Archit Saxena -  Lead
+- Shreyash Srivastva  - Developer 
 - Dishambha Aswasthi - Designer
-- Pranab Tiwari - Editing  
-*(Add links if you want)*
+- Pranab Tiwari - Editing 
 
 ### Your Approach:  
 Chose this problem to bridge the accessibility gap in education.
 Focused on overcoming challenges like dyslexia-friendly content design and offline access in low-connectivity areas.
 Pivoted from a basic note-taker app to a full-fledged learning platform after brainstorming around rural accessibility and engagement strategies.
-
 
 ---
 
@@ -69,8 +67,6 @@ Highlight the most important features of your project:
 -✅ Dyslexia-Friendly Summarization of Notes
 -✅ Gamified Learning Path with Progress Tracking
 
-
-
 ---
 
 ## 📽️ Demo & Deliverables
@@ -86,8 +82,6 @@ Highlight the most important features of your project:
 - [✅] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
 - [✅] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
 
-*(Mark with ✅ if completed)*
-
 ---
 
 ## 🧪 How to Run the Project
@@ -100,14 +94,14 @@ Highlight the most important features of your project:
 ### Local Setup:
 ```bash
 # Clone the repo
-git clone https://github.com/ArchitSaxena349/hackhazards
+git clone https://github.com/gitmanforever/Tutor.ai-for-Hackazards-Hackathon
 
 # Install dependencies
-cd project-name
+cd tutor.ai
 npm install
 
 # Start development server
-npm run dev
+npx expo start
 ```
 
 Notes:
