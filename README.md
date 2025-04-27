@@ -1,150 +1,146 @@
-# Tutor.ai: AI-Powered Learning Assistant for Neurodivergent Students
+![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
-## 🧠 The Problem: Learning Gaps for Neurodivergent Students
+# 🚀 Project Title
 
-Traditional classroom environments present significant challenges for neurodivergent students, particularly those with dyslexia. These students experience:
-
-- **Information Processing Difficulties**: Struggling to process verbal lectures in real-time
-- **Note-Taking Challenges**: Difficulty capturing important points while simultaneously listening
-- **Content Organization Problems**: Trouble structuring information in a meaningful way
-- **Cognitive Overload**: Becoming overwhelmed by dense, text-heavy educational materials
-- **Retention Issues**: Challenges with memorizing and recalling key information
-
-These barriers often lead to achievement gaps, decreased confidence, and educational disparities despite these students having normal or above-average intelligence.
-
-## 💡 Our Solution: Tutor.ai
-
-Tutor.ai is a mobile-first AI companion that transforms traditional learning materials into dyslexia-friendly, interactive content. Our application leverages cutting-edge AI to make learning accessible, engaging, and effective for neurodivergent learners.
-
-### Key Features
-
-#### 1. Lecture Capture & Transcription
-- **Real-Time Audio Recording**: Capture in-person lectures with high-quality audio
-- **AI-Powered Transcription**: Convert speech to text with speaker identification
-- **Smart Highlighting**: Easily mark important segments during recording
-- **Timestamp Navigation**: Jump to specific moments in recordings
-
-#### 2. Intelligent Summarization
-- **Dyslexia-Friendly Content Processing**: Restructures information for easier comprehension
-- **Visual Chapter Breakdowns**: Organizes content with emojis and visual markers
-- **Key Points Extraction**: Identifies and highlights essential concepts
-- **Interactive Timeline**: Creates a visual representation of the lecture structure
-
-#### 3. Gamified Learning Paths
-- **Progression System**: Earn points for engagement with learning materials
-- **Interactive Quizzes**: Test understanding with auto-generated questions
-- **Achievement Tracking**: Visual progress indicators for motivation
-- **Spaced Repetition**: Smart review scheduling based on comprehension
-
-#### 4. Whiteboard Analysis
-- **Visual Capture**: Scan physical whiteboards and diagrams
-- **Content Extraction**: Convert handwritten notes to structured text
-- **Diagram Simplification**: Break down complex visuals into digestible elements
-- **Smart Organization**: Arrange captured information logically
-
-#### 5. Online Learning Integration
-- **YouTube Lecture Support**: Process online educational videos
-- **Content Transformation**: Convert standard videos to accessible formats
-- **Cross-Platform Compatibility**: Seamless experience across devices
-
-## 🛠️ Technical Implementation
-
-### Architecture Overview
-
-Tutor.ai is built using React Native for cross-platform compatibility, with a focus on accessibility and performance:
-
-```
-Tutor.ai/
-├── Frontend (React Native + Expo)
-│   ├── UI Components (Accessibility-optimized)
-│   ├── Audio Processing Middleware
-│   └── Local Storage Management
-├── Backend Services
-│   ├── OpenAI Integration
-│   ├── Media Processing Pipeline
-│   └── User Data Management
-└── AI Models
-    ├── Speech-to-Text (OpenAI Whisper)
-    ├── Content Summarization (GPT-4)
-    └── Image Recognition (Vision API)
-```
-
-### AI/ML Components
-
-#### Speech Recognition & Transcription
-- **Technology**: OpenAI Whisper API
-- **Features**: 
-  - Multi-speaker identification
-  - Background noise filtering
-  - Punctuation and formatting inference
-  - Real-time chunked processing for longer recordings
-
-#### Content Summarization & Transformation
-- **Technology**: OpenAI GPT-4
-- **Implementation**: 
-  - Custom prompt engineering for dyslexia-friendly outputs
-  - Chapter detection and organization
-  - Key point extraction with emotional context preservation
-  - Emoji integration for visual signposting
-
-#### Visual Processing
-- **Technology**: Computer Vision + GPT-4 Vision
-- **Capabilities**:
-  - Whiteboard text extraction
-  - Diagram identification and simplification
-  - Handwriting recognition
-  - Spatial relationship mapping
-
-### Optimization for Neurodivergent Users
-
-- **Font Selection**: Using dyslexia-friendly fonts and customizable typography
-- **Color Schemes**: High-contrast options with adjustable color palettes
-- **Text Spacing**: Enhanced letter/word spacing for improved readability
-- **Animation Control**: Options to reduce motion for users with sensory sensitivities
-- **Audio Processing**: Adjustable playback speed and voice modulation
-
-## 🚀 Impact & Use Cases
-
-### Classroom Support
-- Students can record lectures while focusing on understanding rather than note-taking
-- Automatic organization of lecture content helps with study preparation
-- Visual learning paths make revision more engaging and effective
-
-### Independent Learning
-- Transform YouTube educational content into accessible learning materials
-- Capture and simplify complex whiteboard explanations
-- Create personalized study guides with interactive elements
-
-### Long-term Benefits
-- Develops independent learning strategies
-- Builds confidence through achievement tracking
-- Reduces cognitive load while improving information retention
-
-## 📊 Research & Effectiveness
-
-Our approach is grounded in research on neurodivergent learning strategies:
-
-- **Multisensory Learning**: Combining visual, auditory, and interactive elements
-- **Cognitive Load Theory**: Reducing extraneous processing demands
-- **Achievement Motivation**: Using gamification to increase engagement
-- **Universal Design for Learning**: Creating multiple paths to understanding
-
-## 🔮 Future Development
-
-- **Collaborative Features**: Share and collaborate on notes with peers
-- **Educator Portal**: Allow teachers to upload materials directly
-- **Expanded Subject Support**: Specialized tools for STEM, languages, and arts
-- **Offline Processing**: Reduce dependency on internet connectivity
-- **Advanced Analytics**: Personalized insights into learning patterns
-
-## 🤝 Dev
-
-Shreyash Srivatsva
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+> Tutor.ai – Revolutionizing Learning with AI-Powered Note-Taking and Study Aids
 
 ---
 
-Developed with ❤️ for the one who needs it. 
+## 📌 Problem Statement
+
+Problem Statement 7 – Transform the Future of Rural Commerce
+
+
+---
+
+## 🎯 Objective
+
+Tutor.ai aims to make learning more accessible and effective, especially for students with learning disabilities and limited resources.
+By combining AI, real-time media processing, and gamification, it enables students to capture lectures, generate notes, and review content interactively.
+
+---
+
+## 🧠 Team & Approach
+
+### Team Name:  
+`The Imperials`
+
+### Team Members:  
+
+- Archit Saxena -  lead
+- Shreyash Srivastva  - Developer
+- Dishambha Aswasthi - Designer
+- Pranab Tiwari - Editing  
+*(Add links if you want)*
+
+### Your Approach:  
+Chose this problem to bridge the accessibility gap in education.
+Focused on overcoming challenges like dyslexia-friendly content design and offline access in low-connectivity areas.
+Pivoted from a basic note-taker app to a full-fledged learning platform after brainstorming around rural accessibility and engagement strategies.
+
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Technologies Used:
+-Frontend: React Native + Expo
+-Backend: Node.js / Python APIs
+-Database: Firestore / DynamoDB
+-APIs: OpenAI Whisper API, GPT-4 Vision, Google Vision API
+
+Hosting: AWS Amplify / Firebase Hosting
+### Sponsor Technologies Used (if any):
+- [✅] **Groq:** _How you used Groq_  
+- [ ] **Monad:** _Your blockchain implementation_  
+- [ ] **Fluvio:** _Real-time data handling_  
+- [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
+- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
+- [ ] **Stellar:** _Payments, identity, or token usage_
+*(Mark with ✅ if completed)*
+---
+
+## ✨ Key Features
+
+Highlight the most important features of your project:
+
+-✅ Real-time Audio Recording and Smart Highlighting
+-✅ Whiteboard Scanning with Visual Preprocessing
+-✅ Dyslexia-Friendly Summarization of Notes
+-✅ Gamified Learning Path with Progress Tracking
+
+
+
+---
+
+## 📽️ Demo & Deliverables
+
+- **Demo Video Link:** https://youtu.be/hJcv8roJr1g 
+- **Pitch Deck / PPT Link:** https://docs.google.com/presentation/d/e/2PACX-1vSLy6ZbEZTVBSz7vqBG9S7UIOnVqAvwWnTLZ7I14saYbJcDWuNwyYueHMjzfQ3X5A/pub?start=true&loop=true&delayms=3000
+
+---
+
+## ✅ Tasks & Bonus Checklist
+
+- [✅] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
+- [✅] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
+- [✅] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
+
+*(Mark with ✅ if completed)*
+
+---
+
+## 🧪 How to Run the Project
+
+### Requirements:
+- Node.js / Python.
+- API Keys (Grok, Google Vision)
+- .env file setup with API credentials
+
+### Local Setup:
+```bash
+# Clone the repo
+git clone https://github.com/ArchitSaxena349/hackhazards
+
+# Install dependencies
+cd project-name
+npm install
+
+# Start development server
+npm run dev
+```
+
+Notes:
+
+Backend and frontend are separate if needed.
+
+Set up environment variables before running.
+
+---
+
+## 🧬 Future Scope
+-📈 Integration of more languages and dialects for better accessibility
+-🛡️ Enhanced encryption for stored audio and notes
+-🌐 Expand to multiple platforms like web and desktop
+-📚 Integration with online learning platforms (e.g., Coursera, Udemy)
+ 
+
+---
+
+## 📎 Resources / Credits
+
+- OpenAI APIs (Whisper, GPT-4)
+- Google Vision API
+- Firebase / AWS Services
+- React Native + Expo
+
+Thanks to mentors and fellow participants for their insights!
+
+---
+
+## 🏁 Final Words
+
+This hackathon journey was full of late-night brainstorms, technical hurdles, and "aha!" moments.
+We learned the importance of designing for accessibility, optimized cloud processing, and creating engaging learning experiences.
+Shout-out to the hackathon organizers and our awesome team spirit!
+---
